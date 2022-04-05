@@ -1,2 +1,3 @@
 # Rock-Paper-Scissors
-Piedra papel o tijera, que más quieres.
+## Rock-Paper-Scissors, what more you need
+- [x] new local multiplayer mode and cpu mode
